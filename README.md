@@ -9,7 +9,7 @@ Designing grid cities with high traffic flow using reinforcement learning.
 ## What it does
 
 You set the city size, the number of houses and workplaces, and the obstacles (none, random, or
-custom). A trained agent builds the city on an empty grid. The app then shows the **3 plans with
+custom). A trained agent then fills the grid with houses, workplaces, and roads, building around any obstacles. The app then shows the **3 plans with
 the highest traffic flow**, with an animation of cars driving through each one.
 
 ## How it works
