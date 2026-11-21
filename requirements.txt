@@ -1,0 +1,11 @@
+# Tested on Python 3.14.
+# For the small CPU-only PyTorch build, install torch first (see README).
+gymnasium==1.4.0
+stable-baselines3==2.9.2
+torch==2.15.0
+numpy==2.5.5
+networkx==3.7
+pillow==13.0.0
+streamlit==1.67.0
+icecream==2.2.0
+ipython==9.18.1

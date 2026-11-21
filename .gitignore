@@ -1,0 +1,13 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+
+# Training outputs (models + TensorBoard logs); folder kept via .gitkeep
+training/*
+!training/.gitkeep
+logs/
+
+
+# Private reference: reports list team members' phone numbers and emails
+docs/

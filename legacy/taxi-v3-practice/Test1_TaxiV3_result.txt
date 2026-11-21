@@ -1,0 +1,42 @@
+Train episode: 3000
+approx step = 12.0
+approx score = 7.5-8.0
+failed factor = 0
+
+Train episode: 2500
+approx step = 12.0
+approx score = 7.5-8.0
+failed factor = 0
+
+Train episode: 1000
+approx step = 12
+approx score = 7.8
+failed factor < 0.2
+
+Train episode: 5000
+approx step = 11.6-12.2
+approx score = 7.6-8.2
+failed factor = 0
+
+Train episode: 15000
+starter step = 12.3
+starter score = 7.6
+failed factor = 0
+
+Train episode: 1500
+approx step = 12
+approx score = 7.3
+failed factor < 0.2
+
+Train episode: 300
+failed factor = 0.7
+
+Train episode: 600
+approx step = 9
+approx score = 6.5-7.1
+failed factor = 0.2
+
+Train episode: 800
+approx step = 10.5-11.5
+approx score = 7.0-7.4
+failed factor < 0.2
