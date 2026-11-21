@@ -7,7 +7,3 @@ __pycache__/
 training/*
 !training/.gitkeep
 logs/
-
-
-# Private reference: reports list team members' phone numbers and emails
-docs/
